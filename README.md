@@ -22,7 +22,7 @@ This repository highlights my expertise in:
 
 ## **🔍 Project Highlights**
 
-### **1️⃣ Geospatial Analysis (`city_distance.py`)**
+### **1️⃣ Geospatial Analysis (`CityDistance.py`)**
 - Calculates **geodesic distances** between a list of **communities** and **cities**.
 - Uses the **Haversine formula** to find nearby locations within a **user-defined radius**.
 - Outputs results to a **CSV file** for further analysis.
@@ -32,7 +32,7 @@ This repository highlights my expertise in:
 
 ---
 
-### **2️⃣ Machine Learning: Feature Importance (`random_forest_importance.py`)**
+### **2️⃣ Machine Learning: Feature Importance (`RandomForest.py`)**
 - Uses **Random Forest classification** to identify the most influential features in a dataset.
 - **Evaluates marketing campaigns** by analyzing digital ad factors (e.g., source, medium, campaign type).
 - Produces a **feature importance plot** for data-driven decision-making.
