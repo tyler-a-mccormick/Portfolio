@@ -22,7 +22,7 @@ This repository highlights my expertise in:
 
 ## **🔍 Project Highlights**
 
-### **1️⃣ Geospatial Analysis (`city_distance.py`, `city_distance.R`)**
+### **1️⃣ Geospatial Analysis (`city_distance.py`)**
 - Calculates **geodesic distances** between a list of **communities** and **cities**.
 - Uses the **Haversine formula** to find nearby locations within a **user-defined radius**.
 - Outputs results to a **CSV file** for further analysis.
@@ -42,12 +42,12 @@ This repository highlights my expertise in:
 
 ---
 
-### **3️⃣ SQL Automation: Calendar Table (`calendar_table.sql`)**
-- Generates a **date dimension table** for **business intelligence dashboards**.
+### **3️⃣ SQL Automation: Activity Counter (`ActivityCounter.sql`)**
+- Generates a **table that shows different activities for leads** for **business intelligence dashboards**.
 - Supports **joins** with transactional data, enabling **trend analysis by year, month, quarter, and day**.
 
 **_Use Case:_**  
-📅 A finance team needs a structured **date table** to **track revenue trends over time**.
+📅 A sales team needs a structured **activity table** to **analyze how to best reach customers**.
 
 📬 Let's Connect!
 If you have questions or feeback, reach out!
