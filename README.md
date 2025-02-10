@@ -1,7 +1,7 @@
-# 📊 Data Science & Analytics Portfolio
+# 📊 Data Science, Engineering & Analytics Portfolio
 
 ## **Overview**
-Welcome! This repository showcases a collection of **data science, machine learning, and analytics scripts** that I’ve developed. These projects cover a range of topics, including:
+Welcome! This repository showcases a collection of **data science, data engineering, machine learning, and analytics scripts** that I’ve developed. These projects cover a range of topics, including:
 - **Geospatial Analysis** (Finding nearby cities within a given radius)
 - **Machine Learning & Feature Engineering** (Random Forest feature importance)
 - **Data Pipeline Automation** (Generating SQL-based calendar tables)
