@@ -1,54 +1,90 @@
-# 📊 Data Science, Engineering & Analytics Portfolio
+Analytics Engineering Portfolio
 
-## **Overview**
-Welcome! This repository showcases a collection of **data science, data engineering, machine learning, and analytics scripts** that I’ve developed. These projects cover a range of topics, including:
-- **Geospatial Analysis** (Finding nearby cities within a given radius)
-- **Machine Learning & Feature Engineering** (Random Forest feature importance)
-- **Data Pipeline Automation** (Generating SQL-based calendar tables)
+📌 About Me
 
-Each script demonstrates **real-world applications** in **data analysis, business intelligence, and predictive modeling**.
+Welcome! I'm an Analytics Engineer specializing in data transformation, pipeline development, and marketing analytics. My expertise lies in building scalable data models, optimizing ETL processes, and ensuring high data quality for decision-making. This portfolio highlights projects where I’ve designed and implemented data-driven solutions for marketing and lead attribution.
 
----
+🚀 Key Projects & Contributions
 
-## **🛠 Skills & Technologies Demonstrated**
-This repository highlights my expertise in:
-✅ **Python** – Data manipulation, machine learning, geospatial analysis  
-✅ **R** – Statistical computing, data visualization, geospatial modeling  
-✅ **SQL** – Database queries, automation, and data engineering  
-✅ **Machine Learning** – Feature engineering, Random Forest classification  
-✅ **Data Pipelines** – Automating processes for analytics and reporting  
+🔄 1. Data Pipeline for Marketing Attribution
 
----
+Designed and implemented SQL-based ETL pipelines to integrate marketing spend with lead sources.
 
-## **🔍 Project Highlights**
+Built UTM tracking models to improve lead attribution and cost per acquisition calculations.
 
-### **1️⃣ Geospatial Analysis (`CityDistance.py`)**
-- Calculates **geodesic distances** between a list of **communities** and **cities**.
-- Uses the **Haversine formula** to find nearby locations within a **user-defined radius**.
-- Outputs results to a **CSV file** for further analysis.
+Ensured high data integrity through transformation logic and validation checks.
 
-**_Use Case:_**  
-📍 A real estate firm wants to identify **the closest urban centers** to its senior living communities for **better service planning**.
+📊 2. Marketing Performance Data Models
 
----
+Developed dbt models to track multi-channel marketing performance and measure conversion rates.
 
-### **2️⃣ Machine Learning: Feature Importance (`RandomForest.py`)**
-- Uses **Random Forest classification** to identify the most influential features in a dataset.
-- **Evaluates marketing campaigns** by analyzing digital ad factors (e.g., source, medium, campaign type).
-- Produces a **feature importance plot** for data-driven decision-making.
+Created window functions and aggregations in SQL to monitor marketing trends over time.
 
-**_Use Case:_**  
-📊 A marketing team needs to **prioritize ad spend** by identifying the **most effective channels** for conversions.
+Automated reporting dashboards for real-time insights into campaign effectiveness.
 
----
+🏢 3. CRM Data Optimization & Lead Tracking
 
-### **3️⃣ SQL Automation: Activity Counter (`ActivityCounter.sql`)**
-- Generates a **table that shows different activities for leads** for **business intelligence dashboards**.
-- Supports **joins** with transactional data, enabling **trend analysis by year, month, quarter, and day**.
+Integrated appointment and email tracking with CRM data using SQL and Python.
 
-**_Use Case:_**  
-📅 A sales team needs a structured **activity table** to **analyze how to best reach customers**.
+Developed deduplication and enrichment logic to clean and enhance lead records.
 
-📬 Let's Connect!
-If you have questions or feeback, reach out!
-📧 Email: tyler.a.mccormick@gmail.com
+Built incremental data models for efficient querying and faster report generation.
+
+🌍 4. Geolocation-Based Analytics for Community Targeting
+
+Built a Python-based geospatial pipeline to match communities with nearby cities.
+
+Used geopy and Pandas for distance calculations and optimized location-based marketing strategies.
+
+Standardized data ingestion for reliable geospatial analysis.
+
+🤖 5. Predictive Lead Scoring Models
+
+Developed Random Forest & Logistic Regression models to predict high-converting leads.
+
+Applied feature engineering techniques to improve model accuracy.
+
+Integrated ML scoring outputs into the data warehouse for easy accessibility in BI tools.
+
+📈 6. Automated Reporting & Data Pipelines
+
+Built Python-based ETL scripts to transform marketing data for executive reporting.
+
+Leveraged pptx and fpdf for automated marketing performance presentations.
+
+Designed R-based data visualizations (ggplot2) to showcase marketing trends.
+
+🛠️ Tech Stack & Tools
+
+Data Engineering: SQL (PostgreSQL, BigQuery, SQL Server), dbt, ETL Pipelines
+
+Programming: Python, R
+
+Data Modeling: Fact & Dimension Modeling, Data Warehousing
+
+Machine Learning: Random Forest, Logistic Regression, Feature Engineering
+
+BI & Visualization: Looker, Tableau, Matplotlib, ggplot2
+
+📂 Portfolio Structure
+
+├── sql_scripts/        # SQL queries for data modeling & ETL
+├── dbt_models/         # dbt transformations for marketing analytics
+├── python_scripts/     # Python scripts for automation & ML
+├── r_scripts/          # R scripts for visualization & modeling
+├── data/               # Sample datasets for analytics workflows
+└── README.md           # Project documentation
+
+💡 How I Can Help Your Team
+
+End-to-End Data Pipelines: I specialize in building robust data models and ETL workflows.
+
+Marketing & Lead Attribution: Expertise in integrating UTM tracking with structured data models.
+
+Data Quality & Performance: Ensuring clean, high-quality data for accurate analytics.
+
+Automation & Efficiency: Reducing manual effort by designing scalable pipelines.
+
+📬 Let’s Connect!
+
+I’m passionate about transforming raw data into actionable insights. Let’s discuss how I can enhance your data infrastructure!
