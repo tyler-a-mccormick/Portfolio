@@ -1,5 +1,3 @@
-Analytics Engineering Portfolio
-
 📌 About Me
 
 Welcome! I'm an Analytics Engineer specializing in data transformation, pipeline development, and marketing analytics. My expertise lies in building scalable data models, optimizing ETL processes, and ensuring high data quality for decision-making. This portfolio highlights projects where I’ve designed and implemented data-driven solutions for marketing and lead attribution.
