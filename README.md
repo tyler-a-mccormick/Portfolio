@@ -1,88 +1,67 @@
-📌 About Me
+# 🎯 **Analytics Engineering Portfolio**
 
-Welcome! I'm an Analytics Engineer specializing in data transformation, pipeline development, and marketing analytics. My expertise lies in building scalable data models, optimizing ETL processes, and ensuring high data quality for decision-making. This portfolio highlights projects where I’ve designed and implemented data-driven solutions for marketing and lead attribution.
+---
 
-🚀 Key Projects & Contributions
+## 📌 **About Me**
 
-🔄 1. Data Pipeline for Marketing Attribution
+🚀 **Welcome!** I'm an **Analytics Engineer** specializing in **data transformation, pipeline development, and marketing analytics**. I build scalable **data models**, optimize **ETL processes**, and ensure **high data quality** for **data-driven decision-making**. Below, you’ll find highlights of my work in **lead attribution, predictive analytics, and automation**.
 
-Designed and implemented SQL-based ETL pipelines to integrate marketing spend with lead sources.
+---
 
-Built UTM tracking models to improve lead attribution and cost per acquisition calculations.
+## 🚀 **Key Projects & Contributions**
 
-Ensured high data integrity through transformation logic and validation checks.
+### 🔄 **1. Data Pipeline for Marketing Attribution**
+✅ Designed **SQL-based ETL pipelines** to integrate **marketing spend** with **lead sources**.  
+✅ Built **UTM tracking models** to improve **lead attribution** and optimize **cost per acquisition**.  
+✅ Implemented **data validation logic** to ensure **accuracy and integrity** of reporting.
 
-📊 2. Marketing Performance Data Models
+### 📊 **2. Marketing Performance Data Models**
+📌 Developed **dbt models** to track **multi-channel marketing performance** and **measure conversion rates**.  
+📌 Created **window functions & aggregations** in SQL to **monitor trends** over time.  
+📌 Automated **real-time reporting dashboards** for **stakeholders & leadership teams**.
 
-Developed dbt models to track multi-channel marketing performance and measure conversion rates.
+### 🏢 **3. CRM Data Optimization & Lead Tracking**
+🔍 Integrated **appointment and email tracking** with **CRM data** using **SQL & Python**.  
+🔍 Built **deduplication and enrichment logic** to clean **lead records**.  
+🔍 Developed **incremental data models** for **faster query performance**.
 
-Created window functions and aggregations in SQL to monitor marketing trends over time.
+### 🌍 **4. Geolocation-Based Analytics for Community Targeting**
+📡 Built a **Python-based geospatial pipeline** to match communities with **nearby cities**.  
+📡 Used `geopy` and `pandas` for **distance calculations** to optimize **location-based marketing**.  
+📡 Standardized **data ingestion processes** for **consistent geospatial analysis**.
 
-Automated reporting dashboards for real-time insights into campaign effectiveness.
+### 🤖 **5. Predictive Lead Scoring Models**
+📊 Developed **Random Forest & Logistic Regression** models to **predict high-converting leads**.  
+📊 Engineered **high-value features** to improve **model accuracy & performance**.  
+📊 Integrated **ML scoring outputs** into **BI tools & dashboards** for **real-time decision-making**.
 
-🏢 3. CRM Data Optimization & Lead Tracking
+### 📈 **6. Automated Reporting & Data Pipelines**
+🛠️ Built **Python-based ETL scripts** to **transform & automate** marketing data workflows.  
+🛠️ Leveraged `pptx` and `fpdf` for **automated marketing performance reports**.  
+🛠️ Designed **R-based data visualizations** (`ggplot2`) for **insightful trend analysis**.
 
-Integrated appointment and email tracking with CRM data using SQL and Python.
+---
 
-Developed deduplication and enrichment logic to clean and enhance lead records.
+## 🛠️ **Tech Stack & Tools**
 
-Built incremental data models for efficient querying and faster report generation.
+💾 **Data Engineering:** SQL (PostgreSQL, BigQuery, SQL Server), dbt, ETL Pipelines  
+🐍 **Programming:** Python, R  
+📊 **Data Modeling:** Fact & Dimension Modeling, Data Warehousing  
+🤖 **Machine Learning:** Random Forest, Logistic Regression, Feature Engineering  
+📈 **BI & Visualization:** Looker, Tableau, Matplotlib, ggplot2
 
-🌍 4. Geolocation-Based Analytics for Community Targeting
 
-Built a Python-based geospatial pipeline to match communities with nearby cities.
+## 💡 **How I Can Help Your Team**
 
-Used geopy and Pandas for distance calculations and optimized location-based marketing strategies.
+✔️ **End-to-End Data Pipelines** → Designing **scalable** & **efficient ETL workflows**.  
+✔️ **Marketing & Lead Attribution** → Integrating **UTM tracking** with structured **data models**.  
+✔️ **Data Quality & Performance** → Ensuring **clean, high-quality data** for **accurate insights**.  
+✔️ **Automation & Efficiency** → Reducing **manual workload** with **robust pipelines & ML models**.
 
-Standardized data ingestion for reliable geospatial analysis.
+---
 
-🤖 5. Predictive Lead Scoring Models
+## 📬 **Let’s Connect!**
 
-Developed Random Forest & Logistic Regression models to predict high-converting leads.
+🚀 I’m passionate about turning raw **data** into **actionable insights**. Let’s discuss how I can help scale your **data infrastructure** and **analytics capabilities**!
 
-Applied feature engineering techniques to improve model accuracy.
-
-Integrated ML scoring outputs into the data warehouse for easy accessibility in BI tools.
-
-📈 6. Automated Reporting & Data Pipelines
-
-Built Python-based ETL scripts to transform marketing data for executive reporting.
-
-Leveraged pptx and fpdf for automated marketing performance presentations.
-
-Designed R-based data visualizations (ggplot2) to showcase marketing trends.
-
-🛠️ Tech Stack & Tools
-
-Data Engineering: SQL (PostgreSQL, BigQuery, SQL Server), dbt, ETL Pipelines
-
-Programming: Python, R
-
-Data Modeling: Fact & Dimension Modeling, Data Warehousing
-
-Machine Learning: Random Forest, Logistic Regression, Feature Engineering
-
-BI & Visualization: Looker, Tableau, Matplotlib, ggplot2
-
-📂 Portfolio Structure
-
-├── sql_scripts/        # SQL queries for data modeling & ETL
-├── dbt_models/         # dbt transformations for marketing analytics
-├── python_scripts/     # Python scripts for automation & ML
-├── r_scripts/          # R scripts for visualization & modeling
-├── data/               # Sample datasets for analytics workflows
-└── README.md           # Project documentation
-
-💡 How I Can Help Your Team
-
-End-to-End Data Pipelines: I specialize in building robust data models and ETL workflows.
-
-Marketing & Lead Attribution: Expertise in integrating UTM tracking with structured data models.
-
-Data Quality & Performance: Ensuring clean, high-quality data for accurate analytics.
-
-Automation & Efficiency: Reducing manual effort by designing scalable pipelines.
-
-📬 Let’s Connect!
-
-I’m passionate about transforming raw data into actionable insights. Let’s discuss how I can enhance your data infrastructure!
+📧 **Email:** tyler.andrew.mccormick@gmail.com
