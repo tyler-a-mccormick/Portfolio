@@ -4,7 +4,7 @@
 
 ## 📌 **About Me**
 
-🚀 **Welcome!** I'm an **Analytics Engineer** specializing in **data transformation, pipeline development, and marketing analytics**. I build scalable **data models**, optimize **ETL processes**, and ensure **high data quality** for **data-driven decision-making**. Below, you’ll find highlights of my work in **lead attribution, predictive analytics, and automation**.
+**Welcome!** I'm an **Analytics Engineer** specializing in **data transformation, pipeline development, and marketing analytics**. I build scalable **data models**, optimize **ETL processes**, and ensure **high data quality** for **data-driven decision-making**. Below, you’ll find highlights of my work in **lead attribution, predictive analytics, and automation**.
 
 ---
 
@@ -59,6 +59,10 @@
 ✔️ **Automation & Efficiency** → Reducing **manual workload** with **robust pipelines & ML models**.
 
 ---
+
+## **How to Look at my Work**
+
+Simply just switch between the branches up top and you'll see that they are categorized by language, thanks for checking it out!
 
 ## 📬 **Let’s Connect!**
 
