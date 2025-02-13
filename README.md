@@ -1,10 +1,10 @@
-# 🎯 **Analytics Engineering Portfolio**
+# 🎯 **Analytics Portfolio**
 
 ---
 
 ## 📌 **About Me**
 
-**Welcome!** I'm an **Analytics Engineer** specializing in **data transformation, pipeline development, and marketing analytics**. I build scalable **data models**, optimize **ETL processes**, and ensure **high data quality** for **data-driven decision-making**. Below, you’ll find highlights of my work in **lead attribution, predictive analytics, and automation**.
+**Welcome!** I'm an **Analytics Professional** specializing in **data transformation, pipeline development, and marketing analytics**. I build scalable **data models**, optimize **ETL processes**, and ensure **high data quality** for **data-driven decision-making**. Below, you’ll find highlights of my work in **lead attribution, predictive analytics, and automation**.
 
 ---
 
